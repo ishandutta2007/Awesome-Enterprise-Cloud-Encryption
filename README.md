@@ -67,7 +67,7 @@ Below is the verified comparison of leading enterprise SaaS and hosted cloud enc
 
 ## 💻 Open-Source GitHub Projects
 
-The open-source community provides powerful building blocks for zero-trust key management, GitOps configuration encryption, envelope encryption, and confidential cloud computing. The table below lists the top active open-source projects, equipped with live social star badges and sorted strictly in **descending order of GitHub stargazers**.
+The open-source community provides powerful building blocks for zero-trust key management, GitOps configuration encryption, envelope encryption, and confidential cloud computing. The table below lists the top active open-source projects, equipped with live social Stars_Badges and sorted strictly in **descending order of GitHub stargazers**.
 
 | 📦 Repository & Project | ⭐ Stargazers Count | 📜 License | 🛠️ Core Cryptographic Capabilities |
 | :--- | :--- | :--- | :--- |
